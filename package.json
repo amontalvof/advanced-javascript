@@ -1,0 +1,16 @@
+{
+    "name": "advanced-javascript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main",
+        "dev": "nodemon main"
+    },
+    "keywords": [],
+    "author": "Andy Montalvo",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
